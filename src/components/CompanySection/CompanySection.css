@@ -1,0 +1,22 @@
+* {
+    /* box-sizing:border-box; */
+    color: #fafafa;
+    padding:0;
+    margin:0;
+}
+
+
+.splash {
+    display: flex;
+    flex-direction: column;
+    /* min-height: 50vh; */
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    padding: 5px;
+    font-size: xx-large;
+    color:#0f1e3e;
+}
+

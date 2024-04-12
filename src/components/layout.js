@@ -35,13 +35,13 @@ const Layout = ({ children }) => {
         <main>{children}</main>
         <footer
           style={{
-            marginTop: `var(--space-5)`,
+            textAlign: 'center',
+            marginTop: `var(--space-6)`,
             fontSize: `var(--font-sm)`,
           }}
         >
-          © {new Date().getFullYear()} &middot; Built with
-          {` `}
-          <a href="https://www.gatsbyjs.com">Gatsby</a>
+          {/* © {new Date().getFullYear()} &middot; HRJ London */}
+          {/* <p class="footer-small">Footer can go here.</p> */}
         </footer>
       </div>
     </>
@@ -49,3 +49,4 @@ const Layout = ({ children }) => {
 }
 
 export default Layout
+
