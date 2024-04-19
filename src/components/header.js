@@ -16,7 +16,7 @@ const Header = ({ siteTitle }) => (
         style={{
           padding: '15px',
         }}
-    ><p>Coming Soon.</p></div>
+    ><p>DreamBit s.r.o. | IČO: 56 124 635 | Karpatská 1916/28A, 900 31 Stupava</p></div>
   </header>
 )
 
