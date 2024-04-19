@@ -41,7 +41,7 @@ const Layout = ({ children }) => {
           }}
         >
           {/* © {new Date().getFullYear()} &middot; HRJ London */}
-          {/* <p class="footer-small">Footer can go here.</p> */}
+          <p class="footer-small">DreamBit s.r.o. | IČO: 56 124 635 | Karpatská 1916/28A, 900 31 Stupava</p>
         </footer>
       </div>
     </>
